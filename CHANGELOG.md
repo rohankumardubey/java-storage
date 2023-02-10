@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.19.0](https://github.com/googleapis/java-storage/compare/v2.18.0...v2.19.0) (2023-02-10)
+
+
+### Features
+
+* Update routing annotation for CreateBucketRequest ([#1892](https://github.com/googleapis/java-storage/issues/1892)) ([581120f](https://github.com/googleapis/java-storage/commit/581120f00b9adc2d8d45ac038772685d7e134e61))
+
+
+### Bug Fixes
+
+* Update GrpcStorageImpl handling to be aware of quotaProjectId ([#1877](https://github.com/googleapis/java-storage/issues/1877)) ([ca8510e](https://github.com/googleapis/java-storage/commit/ca8510e3c16a5cc2fac1499b1888af612aa8e5b2)), closes [#1736](https://github.com/googleapis/java-storage/issues/1736)
+
 ## [2.18.0](https://github.com/googleapis/java-storage/compare/v2.17.2...v2.18.0) (2023-02-06)
 
 
